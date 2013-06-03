@@ -1,6 +1,6 @@
 #!/bin/bash
 # Installer for GitLab on RHEL 6 (Red Hat Enterprise Linux and CentOS)
-# apexy2007@gmail.com
+# by apexy2007@gmail.com
 #
 # It's updated to GitLab 5.2, and had tested OK!
 #
@@ -239,5 +239,5 @@ echo "# http://$GL_HOSTNAME (or: http://<host-ip>)"
 echo "# Default admin username: admin@local.host"
 echo "# Default admin password: 5iveL!fe"
 echo "#"
-echo "# Thanks! Enjoy gitlab now."
+echo "# Thanks! Enjoy GitLab now."
 echo "########################################################"
